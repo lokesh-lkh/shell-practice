@@ -4,7 +4,7 @@
 # -lt -> less than
 # -eq -> equal
 # -ne -> not equal
-# -le -> less than or equalto
+# -le -> less than or equal to
 # -ge -> greater than or equal to
 
 
